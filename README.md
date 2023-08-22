@@ -24,6 +24,7 @@ How to run “app.py”
 - http://127.0.0.1:5000/api/v1.0/stations ← for Station Route
 - http://127.0.0.1:5000/api/v1.0/tobs ← for TOBS Route
 - http://127.0.0.1:5000/api/v1.0/2017-01-01 ← For Start/End route. Type in “YYYY-MM-DD” you would like to see data on a Specific Date. Data will populate as such below:
-  -TAVG:  ##.###
-  -TMAX:  ##.#
-  -TMIN:  ##.#
+  
+-TAVG:  ##.###
+-TMAX:  ##.#
+-TMIN:  ##.#
