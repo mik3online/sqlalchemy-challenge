@@ -3,9 +3,10 @@
 --------------------------------------------------------------------
 Michael Strati // Module 10 Challenge
 --------------------------------------------------------------------
-In Folder “SurfsUp” are 2 Files:
+In Folder “SurfsUp” are 2 Files and 1 Folder:
 - File 1: "climate_starter.ipynb" → fulfills “Part 1: Analyze and Explore Climate Data”
 - File 2: "app.py" → fulfills “Part 2: Design Your Climate App”
+- Folder: "Resources" --> contains "Module 10 Challenge files": (1) hawaii_measurements.csv (2) hawaii_stations.csv (3) hawaii.sqlite 
 --------------------------------------------------------------------
 - File 1: "climate_starter.ipynb" can be opened in Jupyter Notebook
 --------------------------------------------------------------------
