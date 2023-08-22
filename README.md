@@ -4,10 +4,12 @@
 Michael Strati // Module 10 Challenge
 --------------------------------------------------------------------
 In Folder “SurfsUp” are 2 Files:
-- File 1: climate_starter.ipynb → fulfills “Part 1: Analyze and Explore Climate Data”
-- File 2: app.py → fulfills “Part 2: Design Your Climate App”
+- File 1: "climate_starter.ipynb" → fulfills “Part 1: Analyze and Explore Climate Data”
+- File 2: "app.py" → fulfills “Part 2: Design Your Climate App”
 --------------------------------------------------------------------
-How to run “app.py”
+- File 1: "climate_starter.ipynb" can be opened in Jupyter Notebook
+--------------------------------------------------------------------
+- FFile 2: How to run “app.py”
 
 1. In TERMINAL, Navigate to Folder “SurfsUp” in “sqlalchemy-challenge” Folder  
 
@@ -25,8 +27,8 @@ How to run “app.py”
 - http://127.0.0.1:5000/api/v1.0/tobs ← for TOBS Route
 - http://127.0.0.1:5000/api/v1.0/2017-01-01 ← For Start/End route. Type in “YYYY-MM-DD” you would like to see data on a Specific Date. Data will populate as such below:
   
--TAVG:  ##.###
+  -TAVG:  ##.###
 
--TMAX:  ##.#
+  -TMAX:  ##.#
 
--TMIN:  ##.#
+  -TMIN:  ##.#
