@@ -9,7 +9,7 @@ In Folder “SurfsUp” are 2 Files:
 --------------------------------------------------------------------
 - File 1: "climate_starter.ipynb" can be opened in Jupyter Notebook
 --------------------------------------------------------------------
-- FFile 2: How to run “app.py”
+- File 2: How to run “app.py”
 
 1. In TERMINAL, Navigate to Folder “SurfsUp” in “sqlalchemy-challenge” Folder  
 
